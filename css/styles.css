@@ -55,6 +55,10 @@ p.article_a a{
   font-weight: lighter;
 }
 
+div ul{
+  list-style: none;
+}
+
 div ul li a{
   text-decoration: none;
   color: black;
@@ -74,6 +78,36 @@ mark.blue{
 mark.blue:hover{
   text-decoration: underline;
 }
+
 p.desc{
   font-family: sans-serif;
+}
+
+a.list_title{
+  font-weight: bolder;
+}
+
+a.list_title.hover{
+  text-decoration: underline;
+}
+
+#left{
+  float:left;
+  width: 33%;
+  /*height: 100%;*/
+  text-align: center;
+}
+
+#center{
+  float: left;
+  width: 33%;
+  /*height: 30%;*/
+  text-align: center;
+}
+
+#right{
+  float: left;
+  width: 33%;
+  /*height: 70%;*/
+  text-align: center;
 }
