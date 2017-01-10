@@ -25,6 +25,24 @@ h2 a:hover{
   text-decoration: underline;;
 }
 
+p.article_a{
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+p.article_a a{
+  text-decoration: none;
+}
+
+.comments{
+  font-weight: normal;
+}
+
+.comments:hover{
+    text-decoration: underline;
+}
+
 .bio {
   font-family: sans-serif;
   text-align: justify;
