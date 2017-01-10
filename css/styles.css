@@ -124,3 +124,12 @@ h1.end{
   font-size: 60px;
   font-stretch: ultra-condensed;
 }
+
+a.foot_end{
+  text-decoration: none;
+  color: blue;
+}
+
+a.foot_end:hover{
+  text-decoration: underline;
+}
