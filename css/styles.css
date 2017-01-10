@@ -36,3 +36,13 @@ h2 a:hover{
   font-family: sans-serif;
   font-weight: lighter;
 }
+
+div ul li a{
+  text-decoration: none;
+  color: black;
+  font-family: sans-serif;
+}
+
+div ul li a:hover{
+  text-decoration: underline;
+}
