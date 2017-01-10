@@ -74,3 +74,6 @@ mark.blue{
 mark.blue:hover{
   text-decoration: underline;
 }
+p.desc{
+  font-family: sans-serif;
+}
