@@ -1,11 +1,28 @@
-h1 {
+.site_name {
   font-family: sans-serif;
   font-size: 75px;
   text-align: center;
 }
 
-h3 {
+h4 {
   font-family: sans-serif;
   font-size: 20px;
   text-align: center;
+}
+
+h2 a{
+  font-family: sans-serif;
+  font-size: 30px;
+  color: black;
+  text-decoration: none;
+  text-align: center;
+}
+
+h2 a:hover{
+  text-decoration: underline;;
+}
+
+.bio {
+  font-family: sans-serif;
+  text-align: justify;
 }
