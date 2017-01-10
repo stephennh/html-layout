@@ -46,3 +46,13 @@ div ul li a{
 div ul li a:hover{
   text-decoration: underline;
 }
+
+mark.blue{
+  color:blue;
+  background-color: white;
+  font-family: sans-serif;
+}
+
+mark.blue:hover{
+  text-decoration: underline;
+}
