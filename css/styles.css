@@ -111,3 +111,16 @@ a.list_title.hover{
   /*height: 70%;*/
   text-align: center;
 }
+
+p.footer{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1.end{
+  font-family: Helvetica;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 60px;
+  font-stretch: ultra-condensed;
+}
