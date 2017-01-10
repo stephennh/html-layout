@@ -4,9 +4,13 @@
   text-align: center;
 }
 
-h4 {
+.date {
   font-family: sans-serif;
   font-size: 20px;
+  text-align: center;
+}
+
+h2 {
   text-align: center;
 }
 
@@ -15,7 +19,6 @@ h2 a{
   font-size: 30px;
   color: black;
   text-decoration: none;
-  text-align: center;
 }
 
 h2 a:hover{
@@ -25,4 +28,11 @@ h2 a:hover{
 .bio {
   font-family: sans-serif;
   text-align: justify;
+}
+
+.list_name{
+  text-align: center;
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: lighter;
 }
